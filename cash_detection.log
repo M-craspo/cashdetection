@@ -1,0 +1,23 @@
+2025-09-03 13:29:44,112 - INFO - 🔄 RTMP URL refreshed. Expires at: 2025-09-04 13:29:44
+2025-09-03 13:29:44,653 - ERROR - ❌ Failed to load YOLO model: [Errno 2] No such file or directory: 'model.pt'
+2025-09-03 13:29:44,653 - ERROR - ❌ Fatal error: [Errno 2] No such file or directory: 'model.pt'
+2025-09-03 13:30:14,106 - INFO - 🔄 RTMP URL refreshed. Expires at: 2025-09-04 13:30:14
+2025-09-03 13:30:14,169 - INFO - ✅ YOLO model loaded successfully
+2025-09-03 13:30:14,169 - INFO - 🚀 Starting optimized cash detection system...
+2025-09-03 13:30:15,547 - WARNING - ❌ Camera connection failed (attempt 1)
+2025-09-03 13:30:16,864 - WARNING - ❌ Camera connection failed (attempt 2)
+2025-09-03 13:30:18,172 - WARNING - ❌ Camera connection failed (attempt 3)
+2025-09-03 13:30:18,172 - WARNING - ❌ Camera offline - sending notification
+2025-09-03 13:30:19,921 - INFO - ✅ Email sent successfully: Camera Offline
+2025-09-03 13:30:51,264 - WARNING - ❌ Camera connection failed (attempt 1)
+2025-09-03 13:30:52,585 - WARNING - ❌ Camera connection failed (attempt 2)
+2025-09-03 13:30:53,899 - WARNING - ❌ Camera connection failed (attempt 3)
+2025-09-03 13:31:25,323 - WARNING - ❌ Camera connection failed (attempt 1)
+2025-09-03 13:31:26,637 - WARNING - ❌ Camera connection failed (attempt 2)
+2025-09-03 13:31:27,950 - WARNING - ❌ Camera connection failed (attempt 3)
+2025-09-03 13:31:59,281 - WARNING - ❌ Camera connection failed (attempt 1)
+2025-09-03 13:32:00,599 - WARNING - ❌ Camera connection failed (attempt 2)
+2025-09-03 13:32:01,900 - INFO - 
+🛑 Stopping detection system...
+2025-09-03 13:32:01,901 - INFO - 📊 Stats - Frames: 0, Detections: 0, Runtime: 107.7s, FPS: 0.0
+2025-09-03 13:32:01,901 - INFO - 🏁 Detection system stopped
